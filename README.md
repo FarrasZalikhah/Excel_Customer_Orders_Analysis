@@ -24,7 +24,7 @@ The dataset contains order value, customer segment, acquisition channel, items p
 5. Wrote business insights and recommendations
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview-customer-orders.png)
 
 ## Project Files
 - 'dataset-2-customer-orders.xlsx'(dataset-2-customer-orders.xlsx): source dataset
