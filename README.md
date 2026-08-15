@@ -27,5 +27,17 @@ The dataset contains order value, customer segment, acquisition channel, items p
 ![Dashboard Preview](dashboard-preview.png)
 
 ## Project Files
-- 'dataset-2-customer-orders.xlsx': source dataset
-- 
+- 'dataset-2-customer-orders.xlsx'(dataset-2-customer-orders.xlsx): source dataset
+- 'analysis-2-customer-orders.xlsx'(analysis-2-customer-orders.xlsx): Excel analysis workbook
+- 'dashboard-preview.png': dashboard screenshoot
+- 'data-cleaning-log.md': cleaning notes
+- 'business-insights.md': key findings and recommendations
+
+## Key Insights
+- Corporate is highest customer order value in Fazuzu Market
+- The highest volume of item sales came from the event
+- Medan is the highest revenue region with 187 orders and revenue Rp226.166.795
+
+## Recommendations
+- Conduct audits of logistics partners to reduce the rates of delayed and returned shipments, which can lower customer satisfaction
+- Make a bundling office supplies and furniture for corporate to increase revenue. 
