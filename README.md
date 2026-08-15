@@ -27,11 +27,10 @@ The dataset contains order value, customer segment, acquisition channel, items p
 ![Dashboard Preview](dashboard-preview-customer-orders.png)
 
 ## Project Files
-- 'dataset-2-customer-orders.xlsx'(dataset-2-customer-orders.xlsx): source dataset
-- 'analysis-2-customer-orders.xlsx'(analysis-2-customer-orders.xlsx): Excel analysis workbook
-- 'dashboard-preview.png': dashboard screenshoot
-- 'data-cleaning-log.md': cleaning notes
-- 'business-insights.md': key findings and recommendations
+- [dataset-2-customer-orders.xlsx](dataset-2-customer-orders.xlsx): source dataset
+- [analysis-2-customer-orders.xlsx](analysis-2-customer-orders.xlsx): Excel analysis workbook
+- [dashboard-preview.png]: dashboard screenshoot
+- [business-insights.md]: key findings and recommendations
 
 ## Key Insights
 - Corporate is highest customer order value in Fazuzu Market
