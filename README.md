@@ -16,3 +16,16 @@ The dataset contains order value, customer segment, acquisition channel, items p
 - Excel dashboard
 - GitHub documentation
 
+## Analysis Process
+1. Reviewed the raw dataset
+2. Cleaned incosistent or incomplete data
+3. Created calculated fields and summary analysis
+4. Built charts and dashboard views
+5. Wrote business insights and recommendations
+
+## Dashboard Preview
+![Dashboard Preview](dashboard-preview.png)
+
+## Project Files
+- 'dataset-2-customer-orders.xlsx': source dataset
+- 
